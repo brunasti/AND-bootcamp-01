@@ -1,12 +1,8 @@
 # AND-bootcamp-01
 
-First commit
-
+Second commit
 
 https://stackoverflow.com/questions/46436189/create-a-react-app-with-intellij-idea
 
-
-
 Steps:
 https://nodejs.org/en/
-
