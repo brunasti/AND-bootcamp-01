@@ -6,3 +6,7 @@ https://stackoverflow.com/questions/46436189/create-a-react-app-with-intellij-id
 
 Steps:
 https://nodejs.org/en/
+
+
+https://www.jetbrains.com/help/idea/react.html
+
